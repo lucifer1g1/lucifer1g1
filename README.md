@@ -86,6 +86,21 @@ Not your generic to-do list app.
 
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🔬 MG-RE Extractor
+<sub>(private repo)</sub>
+
+Extracts research data from scientific paper sites like ScienceDirect for a given topic, and mines the results into structured datasets for ML training.
+
+**Tech:** Python
+
+</td>
+<td width="50%" valign="top">
+
+</td>
+</tr>
 </table>
 
 ---
@@ -110,31 +125,18 @@ Not your generic to-do list app.
 
 ---
 
-## 📊 GitHub Analytics
-
-<p align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=lucifer1g1&show_icons=true&theme=radical&hide_border=true" alt="Lucky's GitHub stats" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucifer1g1&layout=compact&theme=radical&hide_border=true" alt="Lucky's top languages" />
-</p>
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=lucifer1g1&theme=radical&hide_border=true" alt="Lucky's GitHub streak" />
-</p>
-
----
-
-## 🏆 Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=lucifer1g1&theme=radical&no-frame=true&row=1&column=6" alt="Trophies" />
-</p>
-
----
-
 ## 🌆 3D Contribution Graph
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/lucifer1g1/lucifer1g1/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph" width="90%" />
+</p>
+
+---
+
+## 📊 GitHub Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=lucifer1g1&theme=radical&hide_border=true" alt="Lucky's GitHub streak" />
 </p>
 
 ---
