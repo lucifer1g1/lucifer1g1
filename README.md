@@ -46,24 +46,6 @@ Backend for Luxenra, an e-commerce style app.
 </td>
 <td width="50%" valign="top">
 
-### 📋 Project Camp
-
-RESTful API for collaborative project management.
-
-**Highlights**
-* Projects, tasks & subtasks
-* Project notes
-* Team collaboration workflows
-
-**Tech:** Node.js • Express • MongoDB
-
-<a href="https://github.com/lucifer1g1/Project_Camp"><strong>View Repository →</strong></a>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
 ### 🗺️ mapsNIT
 <sub>(collab with aryanm9026)</sub>
 
@@ -74,6 +56,8 @@ Custom campus navigation platform for MNIT Jaipur — contributed to search, exp
 <a href="https://github.com/lucifer1g1/mapsNIT"><strong>View Repository →</strong></a>
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### ✅ Advanced To-Do List
@@ -85,8 +69,6 @@ Not your generic to-do list app.
 <a href="https://github.com/lucifer1g1/Advanced-To-do-list"><strong>View Repository →</strong></a>
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### 🔬 MG-RE Extractor
@@ -95,9 +77,6 @@ Not your generic to-do list app.
 Extracts research data from scientific paper sites like ScienceDirect for a given topic, and mines the results into structured datasets for ML training.
 
 **Tech:** Python
-
-</td>
-<td width="50%" valign="top">
 
 </td>
 </tr>
