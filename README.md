@@ -20,7 +20,8 @@
 * 🔐 Enthusiastic about **application security** — auth flows, API hardening, and secure-by-default design
 * 🏗️ Currently building full-stack projects with **Node.js, Express, MongoDB and React**
 * ⚙️ Exploring **Redis caching**, **Firebase**, and scalable API design
-* 🧠 Ask me about REST APIs, auth flows, or securing a Node backend
+* 🧠 Strengthening **Data Structures & Algorithms** for software engineering roles
+* 💬 Ask me about REST APIs, auth flows, or securing a Node backend
 
 ---
 
@@ -101,11 +102,11 @@ Not your generic to-do list app.
 
 **Backend & Databases**
 
-<p><img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,redis,firebase" alt="Backend and databases" /></p>
+<p><img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,redis,firebase,mysql" alt="Backend and databases" /></p>
 
 **Tools & Platforms**
 
-<p><img src="https://skillicons.dev/icons?i=git,github,postman,vscode" alt="Tools and platforms" /></p>
+<p><img src="https://skillicons.dev/icons?i=git,github,docker,gcp,postman,vscode" alt="Tools and platforms" /></p>
 
 ---
 
@@ -122,14 +123,18 @@ Not your generic to-do list app.
 
 ---
 
-## 🐍 Contribution Activity
+## 🏆 Trophies
 
 <p align="center">
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lucifer1g1/lucifer1g1/output/github-snake-dark.svg" />
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lucifer1g1/lucifer1g1/output/github-snake.svg" />
-<img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/lucifer1g1/lucifer1g1/output/github-snake.svg" />
-</picture>
+<img src="https://github-profile-trophy.vercel.app/?username=lucifer1g1&theme=radical&no-frame=true&row=1&column=6" alt="Trophies" />
+</p>
+
+---
+
+## 🌆 3D Contribution Graph
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/lucifer1g1/lucifer1g1/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph" width="90%" />
 </p>
 
 ---
